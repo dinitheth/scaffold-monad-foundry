@@ -16,8 +16,8 @@ node_modules
 .DS_Store
 
 # IDE
-.vscode
 .idea
 
 # cli
 dist
+config.bat
